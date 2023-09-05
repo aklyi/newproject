@@ -1,0 +1,4 @@
+repository "Aklyi@wechat_os_qy09l-8qgxy4w390brqp3zg1w@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
